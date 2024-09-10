@@ -1,0 +1,2 @@
+# constitution
+Offical DevSoc Constitution.
