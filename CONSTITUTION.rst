@@ -209,16 +209,37 @@ Executive
 Meetings
 ========
 
+#. At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.
+#. The Returning Officers duties are as follows:
+
+   #. **Returning Officer**
+
+      #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.
+      #. Ensure that all elections are run fairly and in line with the rules set out by this Club's Constitution and according to Arc Clubs Policy and Procedure.
+      #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place.
+      #. Provide all members with access to an email address that is designated for use by the Returning Officer over the course of their duties.
+      #. Accept all nominations submitted that satisfy the rules of this Club's Constitution and Arc Clubs Policy and treat any defective or late nominations in the manner prescribed by this Club's Constitution and/or Arc policy.
+      #. If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc Clubs Management, with access to the voting forms and spreadsheets.
+      #. If voting is to take place in person, ensure that they have provided all members with instructions surrounding proxies, have received any proxies via accepted channels and determined the validity of proxies submitted prior to the General Meeting taking place.
+      #. Runs the portion of the General Meeting pertaining to the election of candidates.
+      #. Allows for at least 1 scrutineer per candidate, (who cannot be the candidate themselves) to be present for the counting of votes, if this is held in person, or for that person to be provided access to the voting sheets if the election was held online.
+      #. To present a report announcing all successful candidates following the conclusion of the voting process.
+      #. Where there is a clash between this Club's Constitution and Arc Clubs Policy, Arc Clubs Policy takes precedence.
+
 Annual General Meetings
 -----------------------
 
-#. There shall be one Annual General meeting every calendar year.
-#. Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be:
+3. There shall be one Annual General meeting every calendar year.
+#. Notice in the form of an agenda for the Annual General Meeting shall be no less than fourteen (14) days, and is to be:
 
    #. Given in writing to Arc;
    #. Given in writing to all club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among club members.
 
-#. Quorum for the Annual General Meeting shall be fifteen members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
+#. Quorum for the Annual General Meeting shall be:
+
+   #. Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,
+   #. Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.
+
 #. At an Annual General Meeting:
 
    #. Reports shall be presented by at least the Presidents and the Treasurer;
@@ -226,28 +247,35 @@ Annual General Meetings
    #. Elections for a new Executive shall be conducted; and
    #. Constitutional amendments and other motions on notice may be discussed and voted upon.
 
+#. The Chair will hand over the meeting to the Returning Officer who will:
+
+   #. Hold elections for a new Executive; and/or if this has already happened online,
+   #. Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.
+
 #. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
 Extraordinary General Meetings
 ------------------------------
 
-#. There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 6.8.
+9. There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 4.7.
 #. The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
-#. To petition for an Extraordinary General Meeting, fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing. 6.9 Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven (7) days.
+#. To petition for an Extraordinary General Meeting, twenty (20) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
+#. Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than fourteen (14) days.
 #. There shall be other general meetings of the club as the Executive sees fit.
 
 Meetings
 --------
 
-#. General requirements for all meetings are as follows:
+13. General requirements for all meetings are as follows:
 
    #. Voting at meetings shall be with a simple majority required for a resolution to be passed;
    #. Each full member is entitled to one vote;
-   #. Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
-   #. In the case of equality of voting the Presidents shall have a casting vote. If the presidents are split, the motion fails.
+   #. Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
+   #. Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.
    #. Elections for Executive shall use the “single transferable vote” system;
    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
    #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+   #. Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.
 
 Finance
 =======
