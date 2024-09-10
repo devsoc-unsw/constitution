@@ -5,11 +5,14 @@ Software Development Society (DevSoc) Constitution
 .. sectnum::
     :start: 1
 
-.. Table of Contents::
+.. Contents::
 
 
 Introduction
 ============
+
+The Society
+-----------
 
 #. The official name of the club shall be Software Development Society.
 #. The club shall be affiliated with Arc.
