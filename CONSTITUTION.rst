@@ -21,11 +21,6 @@ Introduction
 
 #. In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
 
-Not-For-Profit
-==============
-
-#. The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
-
 Definitions
 ===========
 
@@ -42,6 +37,11 @@ Definitions
    #. Subjects shall mean units of study offered by the University in progression to the award of a degree.
 
 #. Unless a contrary statement appears in Section 7 of this Constitution, the club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
+
+Not-for-profit
+==============
+
+#. The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
 
 Membership
 ==========
