@@ -21,10 +21,10 @@ Introduction
 
 #. In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
 
-Not-for-profit
+Not-For-Profit
 ==============
 
-#. The assets and income of the organisation shall be applied solely to further its objects and no portion shall be distributed directly or indirectly to the members of the organisation except as genuine compensation for services rendered or expenses incurred on behalf of the organisation.
+#. The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
 
 Definitions
 ===========
