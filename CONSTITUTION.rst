@@ -88,11 +88,10 @@ Executive
    #. A President (Non-Male Identifying);
    #. A President (Non-Female Identifying);
    #. An Administrative Officer;
-   #. A Grievance, Equity, Diversity and Inclusion Officer;
-   #. A Vice-President (Internals);
-   #. A Vice-President (Operations);
-   #. A Vice-President (Course Projects), and
-   #. A Vice-President (Standalone Projects).
+   #. A Vice-President (Internals) & Welfare Officer;
+   #. A Vice-President (Project Operations);
+   #. A Vice-President (Externals), and
+   #. Two Vice-President (Projects).
 
 #. The term of office for each executive shall run from the 1st December in the year in which they are elected, or from the General Meeting in which they fill a vacant position in the case that they fill a vacant position, until the 30th November in the year following the year in which they were elected, or until the position is next duly filled
 #. One member is not permitted to hold more than one Executive position.
@@ -171,8 +170,11 @@ Executive
       #. To collect mail on behalf of the society from the Arc Clubs Space at least every two weeks; and
       #. To attend Arc Clubs Briefings or nominate a fellow society member to attend on their behalf, or send apologies in advance.
 
-   #. **Grievance, Equity, Diversity and Inclusion Officer**
+   #. **Vice-President (Internals) and Welfare Officer**
 
+      #. To facilitate culture and team relations within the society;
+      #. To encourage the software development culture of UNSW;
+      #. To facilitate opportunities for open-source development;
       #. To receive complaints and grievances relating to the society;
       #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Executive on the resolution of grievances;
       #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Executives if they cannot act impartially;
@@ -186,37 +188,28 @@ Executive
       #. Providing guidance to representatives of the society (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
       #. Keeping apprised of any significant issues affecting students from non-majority demographics within the society and report any relevant issues to the society Executive;
       #. Monitoring engagement and membership of students from non-majority demographics within the society and provide regular updates to the Executive;
+      #. To pass on the knowledge to their successor;
       #. Other relevant duties as required.
 
-   #. **Vice-President (Internals)**
+   #. **Vice-President (Project Operations)**
 
       #. To supervise the management of DevSoc's technical infrastructure;
       #. To ensure the visual cohesion of the society's technical projects;
       #. To oversee the development of society-internal technical projects;
+      #. To oversee the long term support of the society's technical projects;
       #. To pass on the knowledge to their successor;
       #. To assist the Executive on their duties wherever practical; and
       #. Other relevant duties as required.
 
-   #. **Vice-President (Operations)**
+   #. **Vice-President (Externals)**
 
       #. To oversee the society's social media presence and branding;
-      #. To facilitate culture and team relations within the society;
-      #. To encourage the software development culture of UNSW;
-      #. To facilitate opportunities for open-source development;
-      #. To pass on the knowledge to their successor;
-      #. To assist the Executive on their duties wherever practical; and
-      #. Other relevant duties as required.
+      #. To oversee the society's media and content creation processes;
+      #. To manage the society's external stakeholder relationships with other societies, industry partners and the school;
+      #. To oversee the building of constructive partnerships with other societies, industry partners and the school;
+      #. To oversee the society's undertaking of external facing events for its members.
 
-   #. **Vice-President (Course Projects)**
-
-      #. To manage existing project teams and timelines;
-      #. To receive feedback from the student community and communicate needs to relevant projects;
-      #. To oversee the development of a common platform that assists students with selecting courses;
-      #. To pass on the knowledge to their successor;
-      #. To assist the Executive on their duties wherever practical; and
-      #. Other relevant duties as required.
-
-   #. **Vice-President (Standalone Projects)**
+   #. **Vice-Presidents (Projects)**
 
       #. To manage existing project teams and timelines;
       #. To receive feedback from the student community and communicate needs to relevant projects;
