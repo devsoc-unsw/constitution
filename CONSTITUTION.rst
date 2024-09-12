@@ -225,6 +225,8 @@ Executive
       #. To assist the Executive on their duties wherever practical; and
       #. Other relevant duties as required.
 
+   #. Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be ‘Acting’ in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
+
 Meetings
 ========
 
