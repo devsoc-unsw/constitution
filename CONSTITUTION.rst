@@ -62,20 +62,20 @@ Membership
 
 #. Notwithstanding clause 4.9, an Executive, a member or associate member of a Club may have their membership terminated if the following occurs:
 
-    #. The person in question has acted in a way that has sabotaged the functions of the Club or disregarded the Constitution to the detriment of the Club’s membership; and/or,
-    #. The person in question has instigated instances of bullying, harassment, assault and/or gendered violence to one or multiple individuals.
-    #. The Club has liaised with Arc about the person in question and Arc has determined the issue is of a serious nature.
-    #. That the Club has, in consultation with Arc, determined that a public EGM to remove the individual would cause undue harm to those that have been victimised or harmed.
-    #. Notice of a General Meeting must then be presented via the email they provided when signing up to the Club, to the person(s) in question, and the Executive, at least seven (7) days prior to the meeting.
-    #. This meeting must be held in-camera (privately) and the only people permitted to attend the meeting are:
+   #. The person in question has acted in a way that has sabotaged the functions of the Club or disregarded the Constitution to the detriment of the Club’s membership; and/or,
+   #. The person in question has instigated instances of bullying, harassment, assault and/or gendered violence to one or multiple individuals.
+   #. The Club has liaised with Arc about the person in question and Arc has determined the issue is of a serious nature.
+   #. That the Club has, in consultation with Arc, determined that a public EGM to remove the individual would cause undue harm to those that have been victimised or harmed.
+   #. Notice of a General Meeting must then be presented via the email they provided when signing up to the Club, to the person(s) in question, and the Executive, at least seven (7) days prior to the meeting.
+   #. This meeting must be held in-camera (privately) and the only people permitted to attend the meeting are:
 
-        #. Executive as listed within their Constitution,
-        #. the person(s) in question,
-        #. a support person for each of the person(s) in question, as required
-        #. Any member of Arc Clubs Management, as required
+      #. Executive as listed within their Constitution,
+      #. the person(s) in question,
+      #. a support person for each of the person(s) in question, as required
+      #. Any member of Arc Clubs Management, as required
 
-    #. The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11)
-    #. The motion is carried by the General Meeting.
+   #. The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11)
+   #. The motion is carried by the General Meeting.
 
 #. Any member of a Club or Club Executive who believes they have been wrongly expelled may appeal to the Clubs Tribunal, who will arrive at the final resolution of the matter.
 #. Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal.
@@ -119,6 +119,7 @@ Executive
 
    #. Meet the criteria outlined in section 5.7; or
    #. Are removed from their role by majority vote of the executive.
+   #. Are absent from any three (3) consecutive meetings of the Club without apology or leave
 
 #. Any vacancy on the Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
 #. Duties of the following Executive positions shall include but not be limited to:
