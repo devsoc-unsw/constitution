@@ -338,9 +338,9 @@ Elections
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
 #. Nominations for multiple positions must be ordered by preference -- that is, should a person apply for two or more positions, they must number each of them, with one being their most preferred position, two their next most preferred, and so on.
-#. The Administrative Officer shall maintain the official list of nominees during the nomination period.
+#. The Returning Officer shall maintain the official list of nominees during the nomination period.
 
-   #. The Executive may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website.
+   #. The Returning Officer may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website.
    #. The election will run for at least three academic days.
 
 #. If there is a tie for any Executive position between candidates, the outgoing presidents shall have a casting vote in the election. If they cannot agree, the entire executive will vote to decide which candidate shall receive the casting vote.
@@ -349,7 +349,7 @@ Elections
 #. Only full members are entitled to vote for the Executive.
 #. Voting is to be confidential with the exception of,
 
-   #. In the event of a full member being prevented from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Presidents, the Administrative Officer, the GEDI Officer, the Vice President (Internals), the Vice President (Operations), the Vice President (Course Projects), the Vice President (Standalone Projects).
+   #. In the event of a full member being prevented from accessing the voting site, votes shall be submitted to the Returning Officer.
 
 #. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. For each vacancy, within each position:
 
