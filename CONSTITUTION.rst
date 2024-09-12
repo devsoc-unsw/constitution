@@ -51,11 +51,11 @@ Membership
 #. Associate membership shall be open to all persons who are not UNSW students, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
 #. The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
 #. The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
-#. Notwithstanding clause 4.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
+#. Notwithstanding clause 4.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 5.8.
 #. Notwithstanding clause 4.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
 
    #. A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
-   #. The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
+   #. The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 6.9;
    #. The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
    #. The motion is carried by the Extraordinary General Meeting.
@@ -121,7 +121,7 @@ Executive
    #. Are removed from their role by majority vote of the executive.
    #. Are absent from any three (3) consecutive meetings of the Club without apology or leave
 
-#. Any vacancy on the Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
+#. Any vacancy on the Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 6.
 #. Duties of the following Executive positions shall include but not be limited to:
 
    #. **Presidents**
@@ -250,7 +250,7 @@ Meetings
 Annual General Meetings
 -----------------------
 
-3. There shall be one Annual General meeting every calendar year.
+#. There shall be one Annual General meeting every calendar year.
 #. Notice in the form of an agenda for the Annual General Meeting shall be no less than fourteen (14) days, and is to be:
 
    #. Given in writing to Arc;
@@ -278,7 +278,7 @@ Annual General Meetings
 Extraordinary General Meetings
 ------------------------------
 
-9. There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 4.7.
+#. There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 4.7.
 #. The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
 #. To petition for an Extraordinary General Meeting, twenty (20) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
 #. Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than fourteen (14) days.
@@ -287,7 +287,7 @@ Extraordinary General Meetings
 Meetings
 --------
 
-13. General requirements for all meetings are as follows:
+#. General requirements for all meetings are as follows:
 
    #. Voting at meetings shall be with a simple majority required for a resolution to be passed;
    #. Each full member is entitled to one vote;
