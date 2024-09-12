@@ -225,7 +225,7 @@ Executive
       #. To assist the Executive on their duties wherever practical; and
       #. Other relevant duties as required.
 
-   #. Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be ‘Acting’ in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
+   #. Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
 
 Meetings
 ========
@@ -298,6 +298,8 @@ Meetings
    #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
    #. Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.
 
+..
+
 Finance
 =======
 
@@ -357,4 +359,3 @@ Elections
    #. Should there not be anyone eligible to hold that position, the position shall be declared vacant.
    #. Each person should then be declared elected to the position which they preferenced highest. All other positions to which they were elected should be declared vacant.
    #. Continue the above steps until they result in a stable allocation.
-
