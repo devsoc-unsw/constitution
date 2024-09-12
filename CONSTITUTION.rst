@@ -282,16 +282,14 @@ Meetings
 
 14. General requirements for all meetings are as follows:
 
-   #. Voting at meetings shall be with a simple majority required for a resolution to be passed;
-   #. Each full member is entitled to one vote;
-   #. Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
-   #. Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.
-   #. Elections for Executive shall use the “single transferable vote” system;
-   #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
-   #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
-   #. Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.
-
-..
+    #. Voting at meetings shall be with a simple majority required for a resolution to be passed;
+    #. Each full member is entitled to one vote;
+    #. Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
+    #. Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.
+    #. Elections for Executive shall use the “single transferable vote” system;
+    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
+    #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+    #. Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.
 
 Finance
 =======
