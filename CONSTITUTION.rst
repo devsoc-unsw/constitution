@@ -350,6 +350,8 @@ Elections
 
    #. Count the votes for that position according to the optional preferential voting algorithm, treating anyone who was already elected, or who preferenced that position lower than one they were elected to, as if they had not run.
    #. The candidate who gains the majority of votes after preferences is elected.
+
       #. If two candidates are to be elected, the final two candidates after preferences, are elected. If three are to be elected, then the final three win and so on.
+
    #. Each person should be declared elected to the position which they preferenced highest.
    #. Should there not be anyone eligible to hold that position, the position shall be declared vacant.
