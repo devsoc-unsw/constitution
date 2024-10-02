@@ -21,11 +21,6 @@ Introduction
 
 #. In all matters not specifically dealt with herein, the procedures set out in the latest edition of Guide for Meetings and Organisations by N.E. Renton shall apply.
 
-Not-for-profit
-==============
-
-#. The assets and income of the organisation shall be applied solely to further its objects and no portion shall be distributed directly or indirectly to the members of the organisation except as genuine compensation for services rendered or expenses incurred on behalf of the organisation.
-
 Definitions
 ===========
 
@@ -43,6 +38,11 @@ Definitions
 
 #. Unless a contrary statement appears in Section 7 of this Constitution, the club shall be bound by all the clauses in Section 2 to Section 6 of this Constitution.
 
+Not-for-profit
+==============
+
+#. The assets and income of the organisation shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the organisation except as bona fide compensation for services rendered or expenses incurred on behalf of the organisation.
+
 Membership
 ==========
 
@@ -51,16 +51,34 @@ Membership
 #. Associate membership shall be open to all persons who are not UNSW students, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
 #. The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
 #. The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
-#. Notwithstanding clause 4.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 3.6.
+#. Notwithstanding clause 4.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 5.8.
 #. Notwithstanding clause 4.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
 
    #. A motion is carried by the Executive, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
-   #. The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 4.2;
+   #. The members of the club are notified of the proceedings formally as a motion on notice to an Extraordinary General Meeting under Section 6.9;
    #. The member concerned is notified in writing of the procedures and reasons for proceedings at least seven (7) days prior to the meeting.
    #. The member concerned is given five (5) minutes to speak against the motion at the Extraordinary General Meeting.
    #. The motion is carried by the Extraordinary General Meeting.
 
-#. Any member of a club or club Executive who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter.
+#. Notwithstanding clause 4.9, an Executive, a member or associate member of a Club may have their membership terminated if the following occurs:
+
+   #. The person in question has acted in a way that has sabotaged the functions of the Club or disregarded the Constitution to the detriment of the Club’s membership; and/or,
+   #. The person in question has instigated instances of bullying, harassment, assault and/or gendered violence to one or multiple individuals.
+   #. The Club has liaised with Arc about the person in question and Arc has determined the issue is of a serious nature.
+   #. That the Club has, in consultation with Arc, determined that a public EGM to remove the individual would cause undue harm to those that have been victimised or harmed.
+   #. Notice of a General Meeting must then be presented via the email they provided when signing up to the Club, to the person(s) in question, and the Executive, at least seven (7) days prior to the meeting.
+   #. This meeting must be held in-camera (privately) and the only people permitted to attend the meeting are:
+
+      #. Executive as listed within their Constitution,
+      #. the person(s) in question,
+      #. a support person for each of the person(s) in question, as required
+      #. Any member of Arc Clubs Management, as required
+
+   #. The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11)
+   #. The motion is carried by the General Meeting.
+
+#. Any member of a Club or Club Executive who believes they have been wrongly expelled may appeal to the Clubs Tribunal, who will arrive at the final resolution of the matter.
+#. Appeals must be submitted in writing within seven (7) days of receiving the penalty and must include a justification for seeking an appeal.
 
 Executive
 =========
@@ -70,11 +88,10 @@ Executive
    #. A President (Non-Male Identifying);
    #. A President (Non-Female Identifying);
    #. An Administrative Officer;
-   #. A Grievance, Equity, Diversity and Inclusion Officer;
-   #. A Vice-President (Internals);
-   #. A Vice-President (Operations);
-   #. A Vice-President (Course Projects), and
-   #. A Vice-President (Standalone Projects).
+   #. A Vice-President (Internals) & Welfare Officer;
+   #. A Vice-President (Project Operations);
+   #. A Vice-President (Externals), and
+   #. Two Vice-President (Projects).
 
 #. The term of office for each executive shall run from the 1st December in the year in which they are elected, or from the General Meeting in which they fill a vacant position in the case that they fill a vacant position, until the 30th November in the year following the year in which they were elected, or until the position is next duly filled
 #. One member is not permitted to hold more than one Executive position.
@@ -101,8 +118,9 @@ Executive
 
    #. Meet the criteria outlined in section 5.7; or
    #. Are removed from their role by majority vote of the executive.
+   #. Are absent from any three (3) consecutive meetings of the Club without apology or leave
 
-#. Any vacancy on the Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 4.
+#. Any vacancy on the Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 6.
 #. Duties of the following Executive positions shall include but not be limited to:
 
    #. **Presidents**
@@ -152,8 +170,11 @@ Executive
       #. To collect mail on behalf of the society from the Arc Clubs Space at least every two weeks; and
       #. To attend Arc Clubs Briefings or nominate a fellow society member to attend on their behalf, or send apologies in advance.
 
-   #. **Grievance, Equity, Diversity and Inclusion Officer**
+   #. **Vice-President (Internals) and Welfare Officer**
 
+      #. To facilitate culture and team relations within the society;
+      #. To encourage the software development culture of UNSW;
+      #. To facilitate opportunities for open-source development;
       #. To receive complaints and grievances relating to the society;
       #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Executive on the resolution of grievances;
       #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Executives if they cannot act impartially;
@@ -167,37 +188,28 @@ Executive
       #. Providing guidance to representatives of the society (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
       #. Keeping apprised of any significant issues affecting students from non-majority demographics within the society and report any relevant issues to the society Executive;
       #. Monitoring engagement and membership of students from non-majority demographics within the society and provide regular updates to the Executive;
+      #. To pass on the knowledge to their successor;
       #. Other relevant duties as required.
 
-   #. **Vice-President (Internals)**
+   #. **Vice-President (Project Operations)**
 
       #. To supervise the management of DevSoc's technical infrastructure;
       #. To ensure the visual cohesion of the society's technical projects;
       #. To oversee the development of society-internal technical projects;
+      #. To oversee the long term support of the society's technical projects;
       #. To pass on the knowledge to their successor;
       #. To assist the Executive on their duties wherever practical; and
       #. Other relevant duties as required.
 
-   #. **Vice-President (Operations)**
+   #. **Vice-President (Externals)**
 
       #. To oversee the society's social media presence and branding;
-      #. To facilitate culture and team relations within the society;
-      #. To encourage the software development culture of UNSW;
-      #. To facilitate opportunities for open-source development;
-      #. To pass on the knowledge to their successor;
-      #. To assist the Executive on their duties wherever practical; and
-      #. Other relevant duties as required.
+      #. To oversee the society's media and content creation processes;
+      #. To manage the society's external stakeholder relationships with other societies, industry partners and the school;
+      #. To oversee the building of constructive partnerships with other societies, industry partners and the school;
+      #. To oversee the society's undertaking of external facing events for its members.
 
-   #. **Vice-President (Course Projects)**
-
-      #. To manage existing project teams and timelines;
-      #. To receive feedback from the student community and communicate needs to relevant projects;
-      #. To oversee the development of a common platform that assists students with selecting courses;
-      #. To pass on the knowledge to their successor;
-      #. To assist the Executive on their duties wherever practical; and
-      #. Other relevant duties as required.
-
-   #. **Vice-President (Standalone Projects)**
+   #. **Vice-Presidents (Projects)**
 
       #. To manage existing project teams and timelines;
       #. To receive feedback from the student community and communicate needs to relevant projects;
@@ -206,19 +218,42 @@ Executive
       #. To assist the Executive on their duties wherever practical; and
       #. Other relevant duties as required.
 
+   #. Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
+
 Meetings
 ========
+
+#. At least one (1) Returning Officer must be appointed by the Executive prior to a General Meeting at which an election will take place.
+#. The Returning Officers duties are as follows:
+
+   #. **Returning Officer**
+
+      #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.
+      #. Ensure that all elections are run fairly and in line with the rules set out by this Club's Constitution and according to Arc Clubs Policy and Procedure.
+      #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place.
+      #. Provide all members with access to an email address that is designated for use by the Returning Officer over the course of their duties.
+      #. Accept all nominations submitted that satisfy the rules of this Club's Constitution and Arc Clubs Policy and treat any defective or late nominations in the manner prescribed by this Club's Constitution and/or Arc policy.
+      #. If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc Clubs Management, with access to the voting forms and spreadsheets.
+      #. If voting is to take place in person, ensure that they have provided all members with instructions surrounding proxies, have received any proxies via accepted channels and determined the validity of proxies submitted prior to the General Meeting taking place.
+      #. Runs the portion of the General Meeting pertaining to the election of candidates.
+      #. Allows for at least 1 scrutineer per candidate, (who cannot be the candidate themselves) to be present for the counting of votes, if this is held in person, or for that person to be provided access to the voting sheets if the election was held online.
+      #. To present a report announcing all successful candidates following the conclusion of the voting process.
+      #. Where there is a clash between this Club's Constitution and Arc Clubs Policy, Arc Clubs Policy takes precedence.
 
 Annual General Meetings
 -----------------------
 
-#. There shall be one Annual General meeting every calendar year.
-#. Notice in the form of an agenda for the Annual General Meeting shall be no less than seven (7) days, and is to be:
+3. There shall be one Annual General meeting every calendar year.
+#. Notice in the form of an agenda for the Annual General Meeting shall be no less than fourteen (14) days, and is to be:
 
    #. Given in writing to Arc;
    #. Given in writing to all club members, or upon approval by Arc displayed in a way that will guarantee an acceptable level of exposure among club members.
 
-#. Quorum for the Annual General Meeting shall be fifteen members or one half of the club membership, whichever is the lesser. This is based on the membership list at the time that notice of the meeting is given.
+#. Quorum for the Annual General Meeting shall be:
+
+   #. Ten (10) or one half of the Club membership, whichever is the lesser, for all Clubs with less than 75 members, and for any other Club that has been active for less than 18 months from the time they first affiliated to Arc; or,
+   #. Fifteen (15) ordinary members for all Clubs with more than 75 members that have been active for more than 18 months from the time they first affiliated to Arc. An ordinary member is defined as a member of the Club that did not serve as Executive in the current year.
+
 #. At an Annual General Meeting:
 
    #. Reports shall be presented by at least the Presidents and the Treasurer;
@@ -226,28 +261,37 @@ Annual General Meetings
    #. Elections for a new Executive shall be conducted; and
    #. Constitutional amendments and other motions on notice may be discussed and voted upon.
 
+#. The Chair will hand over the meeting to the Returning Officer who will:
+
+   #. Hold elections for a new Executive; and/or if this has already happened online,
+   #. Announce the winners and any other relevant information to attendees as required, before handing the meeting to the new, Incoming President, or in their absence, a duly elected Chair.
+
 #. Full minutes of this meeting, including a list of the new Executive, written financial reports, and constitutional amendments, shall be forwarded to Arc within fourteen (14) days of the meeting.
 
 Extraordinary General Meetings
 ------------------------------
 
-#. There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 6.8.
+9. There shall be Extraordinary General Meetings as the Executive sees fit or as petitioned under clause 4.7.
 #. The format, procedures, notice and quorum for an Extraordinary General Meeting shall be the same as for an Annual General Meeting, except that Executive elections will not be held unless specifically notified.
-#. To petition for an Extraordinary General Meeting, fifteen (15) members or half of the club membership, whichever is the lesser, must petition the Executive in writing. 6.9 Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than seven (7) days.
+#. To petition for an Extraordinary General Meeting, twenty (20) members or half of the club membership, whichever is the lesser, must petition the Executive in writing.
+#. Such a petitioned meeting must be held within twenty-one (21) days, but no sooner than fourteen (14) days.
 #. There shall be other general meetings of the club as the Executive sees fit.
 
 Meetings
 --------
 
-#. General requirements for all meetings are as follows:
+14. General requirements for all meetings are as follows:
 
-   #. Voting at meetings shall be with a simple majority required for a resolution to be passed;
-   #. Each full member is entitled to one vote;
-   #. Proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
-   #. In the case of equality of voting the Presidents shall have a casting vote. If the presidents are split, the motion fails.
-   #. Elections for Executive shall use the “single transferable vote” system;
-   #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
-   #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+    #. Voting at meetings shall be with a simple majority required for a resolution to be passed;
+    #. Each full member is entitled to one vote;
+    #. Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
+    #. Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.
+    #. Elections for Executive shall use the “optional preferential” system;
+    #. In the case of equality of voting a countback will be held, with the candidate that received the most first preference votes winning. If there is another tie, the second preference votes will determine the winner, and so on, until a winner is determined;
+    #. In the event a vote is completely and evenly matched, a re-vote will be held.
+    #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
+    #. Constitutional changes passed at an Annual or Extraordinary General Meeting must be approved by Arc for the Club to remain affiliated with Arc.
+    #. Motions not pertaining to Constitutional changes may be raised at the Meeting from any member in attendance.
 
 Finance
 =======
@@ -289,9 +333,9 @@ Elections
 
 #. Nominations must be entered and seconded by two (2) full members, one of whom must be the nominee.
 #. Nominations for multiple positions must be ordered by preference -- that is, should a person apply for two or more positions, they must number each of them, with one being their most preferred position, two their next most preferred, and so on.
-#. The Administrative Officer shall maintain the official list of nominees during the nomination period.
+#. The Returning Officer shall maintain the official list of nominees during the nomination period.
 
-   #. The Executive may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website.
+   #. The Returning Officer may choose that the list be made publicly available during the nomination period. If they choose to do so, it must be on the Society website.
    #. The election will run for at least three academic days.
 
 #. If there is a tie for any Executive position between candidates, the outgoing presidents shall have a casting vote in the election. If they cannot agree, the entire executive will vote to decide which candidate shall receive the casting vote.
@@ -300,12 +344,14 @@ Elections
 #. Only full members are entitled to vote for the Executive.
 #. Voting is to be confidential with the exception of,
 
-   #. In the event of a full member being prevented from accessing the voting site, votes shall be submitted to the first executive member not running in the election in the following list; the Presidents, the Administrative Officer, the GEDI Officer, the Vice President (Internals), the Vice President (Operations), the Vice President (Course Projects), the Vice President (Standalone Projects).
+   #. In the event of a full member being prevented from accessing the voting site, votes shall be submitted to the Returning Officer.
 
-#. Votes will be counted using a modified version of the “single transferable vote” electoral system, a variant of the instant-runoff preferential voting system. For each vacancy, within each position:
+#. Votes will be counted using an optional preferential voting system. For each vacancy, within each position:
 
-   #. Count the votes for that position according to the standard "single transferable vote" algorithm, treating anyone who was already elected to that position, or who preferenced that position lower than one they were elected to, as if they had not run. The candidate who reaches the quota of votes as determined by the Droop quota for that position is elected to that position.
+   #. Count the votes for that position according to the optional preferential voting algorithm, treating anyone who was already elected, or who preferenced that position lower than one they were elected to, as if they had not run.
+   #. The candidate who gains the majority of votes after preferences is elected.
+
+      #. If two candidates are to be elected, the final two candidates after preferences, are elected. If three are to be elected, then the final three win and so on.
+
+   #. Each person should be declared elected to the position which they preferenced highest.
    #. Should there not be anyone eligible to hold that position, the position shall be declared vacant.
-   #. Each person should then be declared elected to the position which they preferenced highest. All other positions to which they were elected should be declared vacant.
-   #. Continue the above steps until they result in a stable allocation.
-
