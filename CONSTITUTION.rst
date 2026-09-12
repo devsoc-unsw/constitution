@@ -208,12 +208,10 @@ Executive
 
       #. To manage the society's external stakeholder relationships with other societies, industry partners and the school;
       #. To oversee the building of constructive partnerships with other societies, industry partners and the school;
-      #. To manage the society's external stakeholder relationships with other societies, industry partners and the school;
-      #. To oversee the building of constructive partnerships with other societies, industry partners and the school;
       #. To oversee the society's undertaking of external facing events for its members;
       #. To coordinate room and venue bookings for the society's events and activities.
 
-  #. **Vice-President (Marketing)**
+   #. **Vice-President (Marketing)**
 
       #. To oversee the society's social media presence and branding;
       #. To oversee the society's media and content creation processes;
