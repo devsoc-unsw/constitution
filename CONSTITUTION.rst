@@ -90,7 +90,8 @@ Executive
    #. An Administrative Officer;
    #. A Vice-President (Internals) & Welfare Officer;
    #. A Vice-President (Project Operations);
-   #. A Vice-President (Externals), and
+   #. A Vice-President (Externals);
+   #. A Vice-President (Marketing); and
    #. Two Vice-President (Projects).
 
 #. The term of office for each executive shall run from the 1st December in the year in which they are elected, or from the General Meeting in which they fill a vacant position in the case that they fill a vacant position, until the 30th November in the year following the year in which they were elected, or until the position is next duly filled
@@ -194,20 +195,32 @@ Executive
    #. **Vice-President (Project Operations)**
 
       #. To supervise the management of DevSoc's technical infrastructure;
-      #. To ensure the visual cohesion of the society's technical projects;
+      #. To oversee the operation, maintenance and reliability of DevSoc's technical infrastructure;
       #. To oversee the development of society-internal technical projects;
       #. To oversee the long term support of the society's technical projects;
+      #. To maintain appropriate documentation and facilitate handover of DevSoc's technical infrastructure and internal technical projects;
+      #. To coordinate with the Vice-Presidents (Projects) regarding the deployment, maintenance and technical support of society projects;
       #. To pass on the knowledge to their successor;
       #. To assist the Executive on their duties wherever practical; and
       #. Other relevant duties as required.
 
    #. **Vice-President (Externals)**
 
-      #. To oversee the society's social media presence and branding;
-      #. To oversee the society's media and content creation processes;
       #. To manage the society's external stakeholder relationships with other societies, industry partners and the school;
       #. To oversee the building of constructive partnerships with other societies, industry partners and the school;
-      #. To oversee the society's undertaking of external facing events for its members.
+      #. To oversee the society's undertaking of external facing events for its members;
+      #. To coordinate room and venue bookings for the society's events and activities.
+
+   #. **Vice-President (Marketing)**
+
+      #. To oversee the society's social media presence and branding;
+      #. To oversee the society's media and content creation processes;
+      #. To oversee the preparation and distribution of the society's newsletters;
+      #. To coordinate the promotion and marketing of the society's events, projects and initiatives;
+      #. To maintain consistency in the society's public-facing communications and branding;
+      #. To pass on the knowledge to their successor;
+      #. To assist the Executive on their duties wherever practical; and
+      #. Other relevant duties as required.
 
    #. **Vice-Presidents (Projects)**
 
