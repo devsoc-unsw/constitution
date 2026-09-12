@@ -123,101 +123,115 @@ Executive
 #. Any vacancy on the Executive must be filled at an Extraordinary General Meeting, via the procedures outlined in Section 6.
 #. Duties of the following Executive positions shall include but not be limited to:
 
-   #. **Presidents**
+    #. **Presidents**
 
-      #. To chair all society, Committee, General and Annual General Meetings (held during their term) of the society;
-      #. To oversee and coordinate the activities and administration of the society;
-      #. To ensure that the elected officers of the society perform duties as laid down by the society's Constitution, through regular email updates, regularly advertised meetings, reports and notices and/or regular newsletters;
-      #. To ensure that all other tasks necessary for the running of the activities of the society are performed, properly either by doing them or delegating the duties;
-      #. To have a thorough knowledge of the society's Constitution;
-      #. To plan the coming year's activities;
-      #. To act as official spokesperson for the society;
-      #. To arrive at a membership fee with the Executive;
-      #. To liaise with fellow office bearers;
-      #. To acquaint each Executive member with their function, responsibility, duties and maintain personal contact with them;
-      #. To liaise with Arc where necessary;
-      #. To ensure that all required reaffiliation documentation is submitted to Arc within the time period prescribed by Arc;
-      #. To ensure that the Administrative Officer submits a Financial Report to the society at the AGM and to Arc and that they have the society's finances in good order in preparation for Spot Audits by Arc;
-      #. To ensure that Arc is informed of changes to the Executive;
-      #. To pass on their knowledge to their successor; and
-      #. Other duties as in accordance with the Constitution of the society.
+       #. To chair all society, Committee, General and Annual General Meetings (held during their term) of the society;
+       #. To oversee and coordinate the activities and administration of the society;
+       #. To ensure that the elected officers of the society perform duties as laid down by the society's Constitution, through regular email updates, regularly advertised meetings, reports and notices and/or regular newsletters;
+       #. To ensure that all other tasks necessary for the running of the activities of the society are performed, properly either by doing them or delegating the duties;
+       #. To have a thorough knowledge of the society's Constitution;
+       #. To plan the coming year's activities;
+       #. To act as official spokesperson for the society;
+       #. To arrive at a membership fee with the Executive;
+       #. To liaise with fellow office bearers;
+       #. To acquaint each Executive member with their function, responsibility, duties and maintain personal contact with them;
+       #. To liaise with Arc where necessary;
+       #. To ensure that all required reaffiliation documentation is submitted to Arc within the time period prescribed by Arc;
+       #. To ensure that the Administrative Officer submits a Financial Report to the society at the AGM and to Arc and that they have the society's finances in good order in preparation for Spot Audits by Arc;
+       #. To ensure that Arc is informed of changes to the Executive;
+       #. To pass on their knowledge to their successor; and
+       #. Other duties as in accordance with the Constitution of the society.
 
-   #. **Administrative Officer**
+    #. **Administrative Officer**
 
-      #. To be responsible for receiving and replying to all correspondence on behalf of the society;
-      #. To organise meetings, agendas (in consultation with the Presidents), and minutes;
-      #. To keep relevant society papers in order;
-      #. To coordinate elections;
-      #. To maintain the membership list, updating when changes are made;
-      #. To keep and maintain all society financial records;
-      #. To hold petty cash tins;
-      #. To keep the society informed of its financial position (at meetings, through regular email reports, or regular newsletters);
-      #. To carry out financial transactions as directed by the Executive;
-      #. To not lend money of the society under any circumstances;
-      #. To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
-      #. To not put the society in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
-      #. To always insist on a receipt or docket to validate any expenditure by the society;
-      #. To always provide a description and reference on any internet banking or app banking payments made;
-      #. To always provide a receipt to a person who gives money to the society for any reason and bank all money received immediately;
-      #. To ensure the society has at least two and not more than three signatories who are Executive members;
-      #. To ensure that society funds are not misused at any time;
-      #. To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained;
-      #. To ensure that under no circumstances are any expenses to be met without documentation.
-      #. To be aware of the Arc funding system, its requirements and its possibilities for the society;
-      #. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
-      #. To liaise with Arc and the society's Executive;
-      #. To have a good working knowledge of Arc forms;
-      #. To collect mail on behalf of the society from the Arc Clubs Space at least every two weeks; and
-      #. To attend Arc Clubs Briefings or nominate a fellow society member to attend on their behalf, or send apologies in advance.
+       #. To be responsible for receiving and replying to all correspondence on behalf of the society;
+       #. To organise meetings, agendas (in consultation with the Presidents), and minutes;
+       #. To keep relevant society papers in order;
+       #. To coordinate elections;
+       #. To maintain the membership list, updating when changes are made;
+       #. To keep and maintain all society financial records;
+       #. To hold petty cash tins;
+       #. To keep the society informed of its financial position (at meetings, through regular email reports, or regular newsletters);
+       #. To carry out financial transactions as directed by the Executive;
+       #. To not lend money of the society under any circumstances;
+       #. To always ensure that the records are up to date and in good order so that if they are otherwise unable to continue in that capacity someone else can easily take over;
+       #. To not put the society in debt that cannot be repaid, but should endeavour to match costs and income as closely as possible;
+       #. To always insist on a receipt or docket to validate any expenditure by the society;
+       #. To always provide a description and reference on any internet banking or app banking payments made;
+       #. To always provide a receipt to a person who gives money to the society for any reason and bank all money received immediately;
+       #. To ensure the society has at least two and not more than three signatories who are Executive members;
+       #. To ensure that society funds are not misused at any time;
+       #. To ensure that when smaller amounts of money are spent (petty cash) a receipt or docket must be obtained;
+       #. To ensure that under no circumstances are any expenses to be met without documentation.
+       #. To be aware of the Arc funding system, its requirements and its possibilities for the society;
+       #. To communicate with the Executive before and after each Arc Clubs Briefing to pass on information (about grants etc);
+       #. To liaise with Arc and the society's Executive;
+       #. To have a good working knowledge of Arc forms;
+       #. To collect mail on behalf of the society from the Arc Clubs Space at least every two weeks; and
+       #. To attend Arc Clubs Briefings or nominate a fellow society member to attend on their behalf, or send apologies in advance.
 
-   #. **Vice-President (Internals) and Welfare Officer**
+    #. **Vice-President (Internals) and Welfare Officer**
 
-      #. To facilitate culture and team relations within the society;
-      #. To encourage the software development culture of UNSW;
-      #. To facilitate opportunities for open-source development;
-      #. To receive complaints and grievances relating to the society;
-      #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Executive on the resolution of grievances;
-      #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Executives if they cannot act impartially;
-      #. To notify those involved of the outcome of the grievance;
-      #. Fostering an inclusive culture within the society;
-      #. Facilitating and promoting the engagement of non-majority demographics of the society (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
-      #. Engaging and representing student members of non-majority demographics of the society;
-      #. Ensuring the society takes into consideration needs and requirements of non-majority demographics of the society in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
-      #. Ensuring that all society communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
-      #. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the society;
-      #. Providing guidance to representatives of the society (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
-      #. Keeping apprised of any significant issues affecting students from non-majority demographics within the society and report any relevant issues to the society Executive;
-      #. Monitoring engagement and membership of students from non-majority demographics within the society and provide regular updates to the Executive;
-      #. To pass on the knowledge to their successor;
-      #. Other relevant duties as required.
+       #. To facilitate culture and team relations within the society;
+       #. To encourage the software development culture of UNSW;
+       #. To facilitate opportunities for open-source development;
+       #. To receive complaints and grievances relating to the society;
+       #. To investigate grievances (where necessary) and resolve grievances or make recommendations to the Executive on the resolution of grievances;
+       #. To act in a fair, ethical and confidential manner in the performance of their duties, and pass on their responsibilities for specific grievances to other Executives if they cannot act impartially;
+       #. To notify those involved of the outcome of the grievance;
+       #. Fostering an inclusive culture within the society;
+       #. Facilitating and promoting the engagement of non-majority demographics of the society (which may include culturally diverse students, students with disabilities, female-identifying students, gender diverse students and LGBTQIA+ students and indigenous students);
+       #. Engaging and representing student members of non-majority demographics of the society;
+       #. Ensuring the society takes into consideration needs and requirements of non-majority demographics of the society in its events and activities, such that all of events are as inclusive as possible and appropriate for non-majority demographics (including but not exclusive to minimising the number of events in the year that coincide with cultural holidays);
+       #. Ensuring that all society communications can be understood clearly by all students (e.g avoiding the use of slang and idioms);
+       #. Being an accessible contact for members, UNSW students and UNSW staff for matters regarding equitable events, activities, conduct and diversity within the society;
+       #. Providing guidance to representatives of the society (Executives, committee members, volunteers etc) on appropriate ways to communicate and behave inclusively;
+       #. Keeping apprised of any significant issues affecting students from non-majority demographics within the society and report any relevant issues to the society Executive;
+       #. Monitoring engagement and membership of students from non-majority demographics within the society and provide regular updates to the Executive;
+       #. To pass on the knowledge to their successor;
+       #. Other relevant duties as required.
 
-   #. **Vice-President (Project Operations)**
+    #. **Vice-President (Project Operations)**
 
-      #. To supervise the management of DevSoc's technical infrastructure;
-      #. To ensure the visual cohesion of the society's technical projects;
-      #. To oversee the development of society-internal technical projects;
-      #. To oversee the long term support of the society's technical projects;
-      #. To pass on the knowledge to their successor;
-      #. To assist the Executive on their duties wherever practical; and
-      #. Other relevant duties as required.
+       #. To supervise the management of DevSoc's technical infrastructure;
+       #. To oversee the operation, maintenance and reliability of DevSoc's technical infrastructure;
+       #. To oversee the development of society-internal technical projects;
+       #. To oversee the long term support of the society's technical projects;
+       #. To maintain appropriate documentation and facilitate handover of DevSoc's technical infrastructure and internal technical projects;
+       #. To coordinate with the Vice-Presidents (Projects) regarding the deployment, maintenance and technical support of society projects;
+       #. To pass on the knowledge to their successor;
+       #. To assist the Executive on their duties wherever practical; and
+       #. Other relevant duties as required.
 
-   #. **Vice-President (Externals)**
+    #. **Vice-President (Externals)**
 
-      #. To oversee the society's social media presence and branding;
-      #. To oversee the society's media and content creation processes;
-      #. To manage the society's external stakeholder relationships with other societies, industry partners and the school;
-      #. To oversee the building of constructive partnerships with other societies, industry partners and the school;
-      #. To oversee the society's undertaking of external facing events for its members.
+       #. To manage the society's external stakeholder relationships with other societies, industry partners and the school;
+       #. To oversee the building of constructive partnerships with other societies, industry partners and the school;
+       #. To oversee the society's undertaking of external facing events for its members;
+       #. To coordinate room and venue bookings for the society's events and activities;
+       #. To pass on the knowledge to their successor;
+       #. To assist the Executive on their duties wherever practical; and
+       #. Other relevant duties as required.
 
-   #. **Vice-Presidents (Projects)**
+    #. **Vice-President (Marketing)**
 
-      #. To manage existing project teams and timelines;
-      #. To receive feedback from the student community and communicate needs to relevant projects;
-      #. To oversee the development of software projects that cater to the varying needs of the student body;
-      #. To pass on the knowledge to their successor;
-      #. To assist the Executive on their duties wherever practical; and
-      #. Other relevant duties as required.
+       #. To oversee the society's social media presence and branding;
+       #. To oversee the society's media and content creation processes;
+       #. To oversee the preparation and distribution of the society's newsletters;
+       #. To coordinate the promotion and marketing of the society's events, projects and initiatives;
+       #. To maintain consistency in the society's public-facing communications and branding;
+       #. To pass on the knowledge to their successor;
+       #. To assist the Executive on their duties wherever practical; and
+       #. Other relevant duties as required.
 
+    #. **Vice-Presidents (Projects)**
+
+       #. To manage existing project teams and timelines;
+       #. To receive feedback from the student community and communicate needs to relevant projects;
+       #. To oversee the development of software projects that cater to the varying needs of the student body;
+       #. To pass on the knowledge to their successor;
+       #. To assist the Executive on their duties wherever practical; and
+       #. Other relevant duties as required.
    #. Executive positions that become vacant less than 1 month before the yearly affiliation period may be filled by majority vote of the Executive. People appointed this way will be 'Acting' in the position, may not be the President or Treasurer, may not be a bank signatory and cannot act as Arc Membership Portal administrators.
 
 Meetings
