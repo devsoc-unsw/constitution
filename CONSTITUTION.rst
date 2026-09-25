@@ -49,7 +49,7 @@ Membership
 #. Contact details for members of the club are to remain with the Executive and Arc to have sole access. Contact details are not to be given or sold to any other person.
 #. Full membership of the club shall be open to all UNSW students, and they shall be required to pay an annual club membership fee set by the club Executive, and complete a membership form.
 #. Associate membership shall be open to all persons who are not UNSW students, provided that they pay a membership fee that is set by the club Executive, and they complete a membership form prepared by the club Executive.
-#. The duration of a person's membership shall be until the club's next Annual General Meeting after they have become a member, or until the end of Week One in Term One of the University year after they have become a member, whichever is the later.
+#. A person's membership commences on the date they purchase membership and remains valid until the end of Week Three of Term One of the following calendar year.
 #. The club shall comply with Anti-Discrimination legislation in all of its activities and procedures, including the granting of club membership.
 #. Notwithstanding clause 4.8, a member of a club Executive may have their position declared vacant according to the procedures set out in Section 5.8.
 #. Notwithstanding clause 4.8, a member or associate member of a club may have their membership terminated after the following procedure is followed:
@@ -72,7 +72,7 @@ Membership
       #. Executive as listed within their Constitution,
       #. the person(s) in question,
       #. a support person for each of the person(s) in question, as required
-      #. Any member of Arc Clubs Management, as required
+      #. Any member of Arc, as required
 
    #. The person(s) in question must be afforded procedural fairness, including five (5) minutes to speak against the motion. (refer to Arc Clubs Policy Section E, 33.5 - 33.11)
    #. The motion is carried by the General Meeting.
@@ -90,7 +90,8 @@ Executive
    #. An Administrative Officer;
    #. A Vice-President (Internals) & Welfare Officer;
    #. A Vice-President (Project Operations);
-   #. A Vice-President (Externals), and
+   #. A Vice-President (Externals);
+   #. A Vice-President (Marketing); and
    #. Two Vice-President (Projects).
 
 #. The term of office for each executive shall run from the 1st December in the year in which they are elected, or from the General Meeting in which they fill a vacant position in the case that they fill a vacant position, until the 30th November in the year following the year in which they were elected, or until the position is next duly filled
@@ -194,20 +195,32 @@ Executive
    #. **Vice-President (Project Operations)**
 
       #. To supervise the management of DevSoc's technical infrastructure;
-      #. To ensure the visual cohesion of the society's technical projects;
+      #. To oversee the operation, maintenance and reliability of DevSoc's technical infrastructure;
       #. To oversee the development of society-internal technical projects;
       #. To oversee the long term support of the society's technical projects;
+      #. To maintain appropriate documentation and facilitate handover of DevSoc's technical infrastructure and internal technical projects;
+      #. To coordinate with the Vice-Presidents (Projects) regarding the deployment, maintenance and technical support of society projects;
       #. To pass on the knowledge to their successor;
       #. To assist the Executive on their duties wherever practical; and
       #. Other relevant duties as required.
 
    #. **Vice-President (Externals)**
 
-      #. To oversee the society's social media presence and branding;
-      #. To oversee the society's media and content creation processes;
       #. To manage the society's external stakeholder relationships with other societies, industry partners and the school;
       #. To oversee the building of constructive partnerships with other societies, industry partners and the school;
-      #. To oversee the society's undertaking of external facing events for its members.
+      #. To oversee the society's undertaking of external facing events for its members;
+      #. To coordinate room and venue bookings for the society's events and activities.
+
+   #. **Vice-President (Marketing)**
+
+      #. To oversee the society's social media presence and branding;
+      #. To oversee the society's media and content creation processes;
+      #. To oversee the preparation and distribution of the society's newsletters;
+      #. To coordinate the promotion and marketing of the society's events, projects and initiatives;
+      #. To maintain consistency in the society's public-facing communications and branding;
+      #. To pass on the knowledge to their successor;
+      #. To assist the Executive on their duties wherever practical; and
+      #. Other relevant duties as required.
 
    #. **Vice-Presidents (Projects)**
 
@@ -228,12 +241,12 @@ Meetings
 
    #. **Returning Officer**
 
-      #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc Clubs Management.
+      #. Ensure that they are at all times impartial and objective and cannot be determined to have a real or perceived conflict of interest by Club members, Executive or by Arc.
       #. Ensure that all elections are run fairly and in line with the rules set out by this Club's Constitution and according to Arc Clubs Policy and Procedure.
       #. Prepare and circulate all notices of election, nominations, voting and proxies to be held as part of any General Meeting in which an election is to take place.
       #. Provide all members with access to an email address that is designated for use by the Returning Officer over the course of their duties.
       #. Accept all nominations submitted that satisfy the rules of this Club's Constitution and Arc Clubs Policy and treat any defective or late nominations in the manner prescribed by this Club's Constitution and/or Arc policy.
-      #. If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc Clubs Management, with access to the voting forms and spreadsheets.
+      #. If voting is to take place online, ensure that the appointed Returning Officer(s) are the only person(s), alongside Arc, with access to the voting forms and spreadsheets.
       #. If voting is to take place in person, ensure that they have provided all members with instructions surrounding proxies, have received any proxies via accepted channels and determined the validity of proxies submitted prior to the General Meeting taking place.
       #. Runs the portion of the General Meeting pertaining to the election of candidates.
       #. Allows for at least 1 scrutineer per candidate, (who cannot be the candidate themselves) to be present for the counting of votes, if this is held in person, or for that person to be provided access to the voting sheets if the election was held online.
