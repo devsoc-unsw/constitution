@@ -299,7 +299,7 @@ Meetings
     #. Each full member is entitled to one vote;
     #. Directed proxies shall be allowed in meetings and the procedure shall comply with the requirements of Arc;
     #. Only a Returning Officer, or in their absence, meeting Chair, may hold proxy votes.
-    #. Elections for Executive shall use the “optional preferential” system;
+    #. Elections for Executive shall use the Regular Single Transferable Vote (STV) / Instant Runoff Voting (IRV) systems;
     #. In the case of equality of voting a countback will be held, with the candidate that received the most first preference votes winning. If there is another tie, the second preference votes will determine the winner, and so on, until a winner is determined;
     #. In the event a vote is completely and evenly matched, a re-vote will be held.
     #. Constitutional changes must be in the form of a motion on notice to an Annual or Extraordinary General Meeting;
@@ -359,9 +359,9 @@ Elections
 
    #. In the event of a full member being prevented from accessing the voting site, votes shall be submitted to the Returning Officer.
 
-#. Votes will be counted using an optional preferential voting system. For each vacancy, within each position:
+#. Votes will be counted using the STV/IRV systems. For each vacancy, within each position:
 
-   #. Count the votes for that position according to the optional preferential voting algorithm, treating anyone who was already elected, or who preferenced that position lower than one they were elected to, as if they had not run.
+   #. Count the votes for that position according to the STV/IRV voting algorithm, treating anyone who was already elected, or who preferenced that position lower than one they were elected to, as if they had not run.
    #. The candidate who gains the majority of votes after preferences is elected.
 
       #. If two candidates are to be elected, the final two candidates after preferences, are elected. If three are to be elected, then the final three win and so on.
